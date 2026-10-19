@@ -12,3 +12,14 @@ This repository contains a Python-based Jupyter Notebook that analyzes Diwali sa
 * **Jupyter Notebook**
 * **Pandas / NumPy** (Data Cleaning & Manipulation)
 * **Matplotlib / Seaborn** (Data Visualization)
+  
+---
+
+## 👤 Author
+
+**Ashutosh Gupta**
+B.Tech Computer Science Engineering, GL Bajaj Group of Institutions, Mathura 
+
+- Connected with me on LinkedIn: https://www.linkedin.com/in/ashutosh-gupta-910148381
+
+---
